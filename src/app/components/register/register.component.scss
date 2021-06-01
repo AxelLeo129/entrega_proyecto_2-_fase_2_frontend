@@ -1,0 +1,31 @@
+.container {
+    height: 100vh;
+    padding-top: 15vh;
+}
+.row{
+    background-color: white;
+    border-radius: 30px;
+}
+
+.contentForm{
+    padding: 3rem;
+}
+
+.btn1{
+    border: none;
+    outline: none;
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.btn1:hover{
+    background-color: white;
+    border: 1px solid;
+    color: black;
+}
+
+
