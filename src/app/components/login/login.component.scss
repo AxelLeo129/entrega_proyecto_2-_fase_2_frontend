@@ -4,11 +4,13 @@
 
 .container {
     height: 100vh;
-    padding-top: 15vh;
+    padding-top: 10vh;
 }
 .row{
     background-color: white;
     border-radius: 30px;
+    -webkit-box-shadow: 7px 11px 27px 2px #000000; 
+    box-shadow: 7px 11px 27px 2px #000000;
 }
 
 img{

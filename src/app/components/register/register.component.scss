@@ -1,10 +1,15 @@
 .container {
     height: 100vh;
-    padding-top: 15vh;
+    padding-top: 5vh;
 }
 .row{
     background-color: white;
     border-radius: 30px;
+}
+
+.shadow{
+    -webkit-box-shadow: 7px 11px 27px 2px #000000 !important; 
+    box-shadow: 7px 11px 27px 2px #000000 !important;
 }
 
 .contentForm{
