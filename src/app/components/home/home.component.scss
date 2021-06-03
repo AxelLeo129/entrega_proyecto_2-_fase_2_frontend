@@ -1,0 +1,55 @@
+.friends-container{
+    width: 100%;
+    max-height: 20vh;
+    background-color: black;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+
+  .card {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+    border-color: aliceblue;
+  }
+  img{
+      border-radius: 10px;
+  }
+}
+
+.bg-darker{
+    background-color: black !important;
+}
+
+.aux {
+    .card{
+        height: 80vh !important;
+    }
+    ul{
+        height: 100%;
+        overflow-x: hidden !important;
+    }
+}
+
+.container{
+    margin: 0px;
+}
+
+.musica{
+    width: 69vw !important;
+    
+}
+
+.img-musica{
+    border: 1px solid; 
+    border-color: aliceblue;
+}
+
+.fixed-bottom{
+    border-radius: 10px !important;
+}
+
+.lin{
+    height: 2px;
+    background-color: white;
+}
